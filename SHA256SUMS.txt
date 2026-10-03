@@ -1,1 +1,1 @@
-f2e0cc15252430d80edfb6942b2153b9e67f8d5d93818a44ba97a21560967143  EMX-VEX-0.2.1-portable.zip
+01e6013dddeb5c5d65d500f5cafaa6e09619ef3b22dd47c736e35df7cf4ad816  EMX-VEX-0.2.2-portable.zip
