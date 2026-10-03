@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "version": "0.2.0",
+  "channel": "stable",
+  "releaseUrl": "https://github.com/tjcorp420/emx-vex-updates/releases/tag/v0.2.0",
+  "downloadUrl": "https://github.com/tjcorp420/emx-vex-updates/releases/download/v0.2.0/EMX-VEX-0.2.0-portable.zip",
+  "sha256": "8213cef6e907f7a8f956742c77f671e30183b9c2dd8165e6d196b1c54b57231e",
+  "size": 82021898,
+  "platform": "windows-x64"
+}
