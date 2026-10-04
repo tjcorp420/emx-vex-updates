@@ -1,1 +1,3 @@
-01e6013dddeb5c5d65d500f5cafaa6e09619ef3b22dd47c736e35df7cf4ad816  EMX-VEX-0.2.2-portable.zip
+530f78e5c6278c19fc90ad3cef883830d66eaa1cd621984689ed4ebea4519e1b  EMX-VEX-1.0.0-Setup.exe
+3647486a23735aec90d70ef87e88e0c71dcf6916c5c594d8599b8adaccd6b50a  EMX-VEX-1.0.0-Setup.zip
+73a061bd4f7eaaffb19282cbb6c4481378a3f789a285fa66137bfbc9f23eb879  EMX-VEX-1.0.0-portable.zip
