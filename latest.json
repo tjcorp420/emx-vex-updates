@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "channel": "stable",
-  "releaseUrl": "https://github.com/tjcorp420/emx-vex-updates/releases/tag/v1.0.1",
-  "downloadUrl": "https://github.com/tjcorp420/emx-vex-updates/releases/download/v1.0.1/EMX-VEX-1.0.1-portable.zip",
-  "sha256": "508d15e6f777af6dd1d98d1cb70489797633457e470c2235e8050fa4f0e5241c",
-  "size": 82022722,
+  "releaseUrl": "https://github.com/tjcorp420/emx-vex-updates/releases/tag/v1.0.2",
+  "downloadUrl": "https://github.com/tjcorp420/emx-vex-updates/releases/download/v1.0.2/EMX-VEX-1.0.2-portable.zip",
+  "sha256": "546fd79c4e5285a614f9352ad7bc1cb6d5c1d32eb3d5f3245029f6160d2548a1",
+  "size": 82028680,
   "platform": "windows-x64"
 }
